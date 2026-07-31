@@ -4,6 +4,12 @@
 
 Focused on building software that solves real-world problems through full-stack development and AI/ML. DSA enthusiast with an interest in scalable systems, clean architecture, and continuous learning.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Krish8732/Krish8732/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Krish8732/Krish8732/output/github-snake.svg" />
+  <img alt="github-contribution-grid-snake animation" src="https://raw.githubusercontent.com/Krish8732/Krish8732/output/github-snake.svg" />
+</picture>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishbadgujar) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/u/Krish1199/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishbadgujar05@gmail.com)
 
